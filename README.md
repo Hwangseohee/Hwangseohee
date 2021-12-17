@@ -32,7 +32,7 @@ Nice to meet you! I am Seohee who is learning about AI in university.
 ##
   
 ## me 🌈
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-9999FF?style=flat-square&logo=Instagram&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-9999FF?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/?hl=ko)
