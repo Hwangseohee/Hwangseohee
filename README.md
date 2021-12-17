@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=HI🙂%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=HI🙂%&fontSize=60)
 
 <div align=center>
+Nice to meet you! I am Seohee who is learning about AI in university.
+  
   
 ## tech 💡
  
@@ -26,7 +28,8 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)]()
   
-
+##
+##
   
 ## me 🌈
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)]()
